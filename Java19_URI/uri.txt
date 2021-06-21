@@ -1,0 +1,13 @@
+java.net : URL, Address, UDP, TCP  //이런 클래스들이 들어가져있음.
+
+
+1.URL : 주소(위치) -> Uniform Resource Locator
+
+2.URN : 이름(대상) -> Uniform Resource Name
+
+3.URI : 식별자 -> Uniform Resource Identifier
+
+  ******* URI = URL + URN
+
+
+ //Restful Api// URL URN URI 를 요청해서 응답받자 라는 개념. 
